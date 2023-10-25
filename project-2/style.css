@@ -2,4 +2,21 @@
 body{
     font-family: 'Hind', sans-serif;
     margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    background:linear-gradient(90deg,rgb(228, 243, 15),rgb(255, 187, 0));
+}
+button{
+    border:0;
+    border-radius: 5px;
+    background: lightblue;
+    color: rgb(238, 129, 20);
+    cursor: pointer;
+    width: 150px;
+    height: 75px;
+    font-size: 26px;
+
 }
