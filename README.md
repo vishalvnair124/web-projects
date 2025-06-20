@@ -18,29 +18,31 @@ A collection of small web projects built with HTML, CSS, and JavaScript. Each pr
 
 ## 🚀 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/vishalvnair124/web-projects.git
-````
+**Clone the repository:**
 
-2. Navigate into any project folder:
+```bash
+git clone https://github.com/vishalvnair124/web-projects.git
+Navigate into any project folder:
 
-   ```bash
-   cd web-projects/project-2
-   ```
-3. Open `index.html` in your browser:
+bash
+Copy
+Edit
+cd web-projects/project-2
+Open index.html in your browser:
 
-   ```bash
-   open index.html
-   ```
+On macOS/Linux:
 
-   or just double‑click the file.
+bash
+Copy
+Edit
+open index.html
+On Windows:
+Double-click the file in Explorer.
 
----
-
-## 🧱 Repository Structure
-
-```plaintext
+🧱 Repository Structure
+plaintext
+Copy
+Edit
 web-projects/
 │
 ├── project-1/         # Color Changer example
@@ -58,20 +60,13 @@ web-projects/
 ├── project-5/         # [Your description]
 │   └── …
 └── README.md          # This file
-```
+🛠 Technologies
+HTML5
 
----
+CSS3
 
-## 🛠 Technologies
+JavaScript (ES6+)
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-
----
-
-## 👨‍💻 Author
-
-**Vishal V Nair**
-📫 GitHub: [@vishalvnair124](https://github.com/vishalvnair124)
-
+👨‍💻 Author
+Vishal V Nair
+📫 GitHub: @vishalvnair124
