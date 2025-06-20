@@ -22,27 +22,28 @@ A collection of small web projects built with HTML, CSS, and JavaScript. Each pr
 
 ```bash
 git clone https://github.com/vishalvnair124/web-projects.git
-Navigate into any project folder:
+```
 
-bash
-Copy
-Edit
+**Navigate into any project folder:**
+
+```bash
 cd web-projects/project-2
-Open index.html in your browser:
+```
 
-On macOS/Linux:
+**Open `index.html` in your browser:**
 
-bash
-Copy
-Edit
-open index.html
-On Windows:
-Double-click the file in Explorer.
+- **macOS/Linux:**
+  ```bash
+  open index.html
+  ```
+- **Windows:**  
+  Double-click the file in Explorer.
 
-🧱 Repository Structure
-plaintext
-Copy
-Edit
+---
+
+## 🧱 Repository Structure
+
+```plaintext
 web-projects/
 │
 ├── project-1/         # Color Changer example
@@ -60,13 +61,19 @@ web-projects/
 ├── project-5/         # [Your description]
 │   └── …
 └── README.md          # This file
-🛠 Technologies
-HTML5
+```
 
-CSS3
+---
 
-JavaScript (ES6+)
+## 🛠 Technologies
 
-👨‍💻 Author
-Vishal V Nair
-📫 GitHub: @vishalvnair124
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)
+
+---
+
+## 👨‍💻 Author
+
+**Vishal V Nair**  
+📫 GitHub: [@vishalvnair124](https://github.com/vishalvnair124)
